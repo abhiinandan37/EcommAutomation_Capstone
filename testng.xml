@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" verbose="1" parallel="false">
+
+	<listeners>
+        <listener class-name="stepDefinitions.ExtentTestNGListener"/>
+    </listeners>
+    
+	<test name="Sanity Tests">
+
+		<!--  using Parameter -->
+		<parameter name="FirstName" value="Abhinandan" />
+		<parameter name="LastName" value="Ballav" />
+		<parameter name="PostalCode" value="711401" />
+		
+		 <!-- For Grouping-->
+  
+ 		<groups>
+  		<run> <include name="SanityTest"/> </run>
+		</groups>
+  
+   <!-- Calling Classes-->
+
+		<classes>
+			<class name="runner.TestRunner" />
+			<class name="testcases.BrowserSetupPage" />
+			<class name="testcases.InventoryUIValidationTestCase" />
+			<class name="testcases.CartFeatureValidationTestCases" />
+			<class name="testcases.SortingFeatureValidationTestCases" />
+			<class name="testcases.CheckoutFeatureValidationTestCases" />
+			
+		</classes>
+		
+		
+
+	</test>
+</suite>
+
