@@ -2,28 +2,28 @@
 <testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-09-07T22:59:36 IST" name="Suite" finished-at="2025-09-07T23:00:11 IST" duration-ms="35604">
+  <suite started-at="2025-09-07T23:20:17 IST" name="Suite" finished-at="2025-09-07T23:20:53 IST" duration-ms="35583">
     <groups>
       <group name="SanityTest">
-        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@13d9cbf5]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
-        <method signature="InventoryUIValidationTestCase.validateUI()[pri:1, instance:testcases.InventoryUIValidationTestCase@41fed14f]" name="validateUI" class="testcases.InventoryUIValidationTestCase"/>
-        <method signature="SortingFeatureValidationTestCases.sortingByAToZ()[pri:2, instance:testcases.SortingFeatureValidationTestCases@16c587de]" name="sortingByAToZ" class="testcases.SortingFeatureValidationTestCases"/>
-        <method signature="SortingFeatureValidationTestCases.sortingByZToA()[pri:3, instance:testcases.SortingFeatureValidationTestCases@16c587de]" name="sortingByZToA" class="testcases.SortingFeatureValidationTestCases"/>
-        <method signature="SortingFeatureValidationTestCases.sortingByPriceLowToHigh()[pri:4, instance:testcases.SortingFeatureValidationTestCases@16c587de]" name="sortingByPriceLowToHigh" class="testcases.SortingFeatureValidationTestCases"/>
-        <method signature="SortingFeatureValidationTestCases.sortingByPriceHighToLow()[pri:5, instance:testcases.SortingFeatureValidationTestCases@16c587de]" name="sortingByPriceHighToLow" class="testcases.SortingFeatureValidationTestCases"/>
-        <method signature="CartFeatureValidationTestCases.addSingleProduct()[pri:6, instance:testcases.CartFeatureValidationTestCases@7a0f244f]" name="addSingleProduct" class="testcases.CartFeatureValidationTestCases"/>
-        <method signature="CartFeatureValidationTestCases.removeItem()[pri:7, instance:testcases.CartFeatureValidationTestCases@7a0f244f]" name="removeItem" class="testcases.CartFeatureValidationTestCases"/>
-        <method signature="CartFeatureValidationTestCases.addMultipleProduct()[pri:8, instance:testcases.CartFeatureValidationTestCases@7a0f244f]" name="addMultipleProduct" class="testcases.CartFeatureValidationTestCases"/>
-        <method signature="CheckoutFeatureValidationTestCases.checkoutWithOutPostalCode(java.lang.String,java.lang.String)[pri:9, instance:testcases.CheckoutFeatureValidationTestCases@30364216]" name="checkoutWithOutPostalCode" class="testcases.CheckoutFeatureValidationTestCases"/>
-        <method signature="CheckoutFeatureValidationTestCases.checkoutWithAllDetails(java.lang.String)[pri:10, instance:testcases.CheckoutFeatureValidationTestCases@30364216]" name="checkoutWithAllDetails" class="testcases.CheckoutFeatureValidationTestCases"/>
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@7905a0b8]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+        <method signature="InventoryUIValidationTestCase.validateUI()[pri:1, instance:testcases.InventoryUIValidationTestCase@30a7c98f]" name="validateUI" class="testcases.InventoryUIValidationTestCase"/>
+        <method signature="SortingFeatureValidationTestCases.sortingByAToZ()[pri:2, instance:testcases.SortingFeatureValidationTestCases@7569ea63]" name="sortingByAToZ" class="testcases.SortingFeatureValidationTestCases"/>
+        <method signature="SortingFeatureValidationTestCases.sortingByZToA()[pri:3, instance:testcases.SortingFeatureValidationTestCases@7569ea63]" name="sortingByZToA" class="testcases.SortingFeatureValidationTestCases"/>
+        <method signature="SortingFeatureValidationTestCases.sortingByPriceLowToHigh()[pri:4, instance:testcases.SortingFeatureValidationTestCases@7569ea63]" name="sortingByPriceLowToHigh" class="testcases.SortingFeatureValidationTestCases"/>
+        <method signature="SortingFeatureValidationTestCases.sortingByPriceHighToLow()[pri:5, instance:testcases.SortingFeatureValidationTestCases@7569ea63]" name="sortingByPriceHighToLow" class="testcases.SortingFeatureValidationTestCases"/>
+        <method signature="CartFeatureValidationTestCases.addSingleProduct()[pri:6, instance:testcases.CartFeatureValidationTestCases@7be7e15]" name="addSingleProduct" class="testcases.CartFeatureValidationTestCases"/>
+        <method signature="CartFeatureValidationTestCases.removeItem()[pri:7, instance:testcases.CartFeatureValidationTestCases@7be7e15]" name="removeItem" class="testcases.CartFeatureValidationTestCases"/>
+        <method signature="CartFeatureValidationTestCases.addMultipleProduct()[pri:8, instance:testcases.CartFeatureValidationTestCases@7be7e15]" name="addMultipleProduct" class="testcases.CartFeatureValidationTestCases"/>
+        <method signature="CheckoutFeatureValidationTestCases.checkoutWithOutPostalCode(java.lang.String,java.lang.String)[pri:9, instance:testcases.CheckoutFeatureValidationTestCases@b606cb6]" name="checkoutWithOutPostalCode" class="testcases.CheckoutFeatureValidationTestCases"/>
+        <method signature="CheckoutFeatureValidationTestCases.checkoutWithAllDetails(java.lang.String)[pri:10, instance:testcases.CheckoutFeatureValidationTestCases@b606cb6]" name="checkoutWithAllDetails" class="testcases.CheckoutFeatureValidationTestCases"/>
       </group> <!-- SanityTest -->
       <group name="cucumber">
-        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@13d9cbf5]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@7905a0b8]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test started-at="2025-09-07T22:59:36 IST" name="Sanity Tests" finished-at="2025-09-07T23:00:11 IST" duration-ms="35604">
+    <test started-at="2025-09-07T23:20:17 IST" name="Sanity Tests" finished-at="2025-09-07T23:20:53 IST" duration-ms="35583">
       <class name="testcases.CheckoutFeatureValidationTestCases">
-        <test-method signature="checkoutWithOutPostalCode(java.lang.String,java.lang.String)[pri:9, instance:testcases.CheckoutFeatureValidationTestCases@30364216]" started-at="2025-09-07T23:00:10 IST" name="checkoutWithOutPostalCode" description="TC14_Validate checkout feature without postal code" finished-at="2025-09-07T23:00:11 IST" duration-ms="555" status="PASS">
+        <test-method signature="checkoutWithOutPostalCode(java.lang.String,java.lang.String)[pri:9, instance:testcases.CheckoutFeatureValidationTestCases@b606cb6]" started-at="2025-09-07T23:20:51 IST" name="checkoutWithOutPostalCode" description="TC14_Validate checkout feature without postal code" finished-at="2025-09-07T23:20:52 IST" duration-ms="606" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -39,7 +39,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkoutWithOutPostalCode -->
-        <test-method signature="checkoutWithAllDetails(java.lang.String)[pri:10, instance:testcases.CheckoutFeatureValidationTestCases@30364216]" started-at="2025-09-07T23:00:11 IST" name="checkoutWithAllDetails" description="TC15_Validate checkout feature with proper address" finished-at="2025-09-07T23:00:11 IST" duration-ms="478" status="PASS">
+        <test-method signature="checkoutWithAllDetails(java.lang.String)[pri:10, instance:testcases.CheckoutFeatureValidationTestCases@b606cb6]" started-at="2025-09-07T23:20:52 IST" name="checkoutWithAllDetails" description="TC15_Validate checkout feature with proper address" finished-at="2025-09-07T23:20:53 IST" duration-ms="515" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -52,66 +52,66 @@
         </test-method> <!-- checkoutWithAllDetails -->
       </class> <!-- testcases.CheckoutFeatureValidationTestCases -->
       <class name="testcases.BrowserSetupPage">
-        <test-method is-config="true" signature="getDriver()[pri:0, instance:testcases.BrowserSetupPage@2f666ebb]" started-at="2025-09-07T22:59:36 IST" name="getDriver" finished-at="2025-09-07T22:59:38 IST" duration-ms="2337" status="PASS">
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:testcases.BrowserSetupPage@15f47664]" started-at="2025-09-07T23:20:17 IST" name="getDriver" finished-at="2025-09-07T23:20:20 IST" duration-ms="2822" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getDriver -->
-        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:testcases.BrowserSetupPage@2f666ebb]" started-at="2025-09-07T23:00:12 IST" name="CloseBrowser" finished-at="2025-09-07T23:00:12 IST" duration-ms="290" status="PASS">
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:testcases.BrowserSetupPage@15f47664]" started-at="2025-09-07T23:20:53 IST" name="CloseBrowser" finished-at="2025-09-07T23:20:53 IST" duration-ms="294" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseBrowser -->
       </class> <!-- testcases.BrowserSetupPage -->
       <class name="testcases.SortingFeatureValidationTestCases">
-        <test-method signature="sortingByAToZ()[pri:2, instance:testcases.SortingFeatureValidationTestCases@16c587de]" started-at="2025-09-07T23:00:09 IST" name="sortingByAToZ" description="TC07_Validating the sorting feature A to Z" finished-at="2025-09-07T23:00:09 IST" duration-ms="180" status="PASS">
+        <test-method signature="sortingByAToZ()[pri:2, instance:testcases.SortingFeatureValidationTestCases@7569ea63]" started-at="2025-09-07T23:20:51 IST" name="sortingByAToZ" description="TC07_Validating the sorting feature A to Z" finished-at="2025-09-07T23:20:51 IST" duration-ms="162" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sortingByAToZ -->
-        <test-method signature="sortingByZToA()[pri:3, instance:testcases.SortingFeatureValidationTestCases@16c587de]" started-at="2025-09-07T23:00:09 IST" name="sortingByZToA" description="TC08_Validating the sorting feature Z to A" finished-at="2025-09-07T23:00:10 IST" duration-ms="191" status="PASS">
+        <test-method signature="sortingByZToA()[pri:3, instance:testcases.SortingFeatureValidationTestCases@7569ea63]" started-at="2025-09-07T23:20:51 IST" name="sortingByZToA" description="TC08_Validating the sorting feature Z to A" finished-at="2025-09-07T23:20:51 IST" duration-ms="170" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sortingByZToA -->
-        <test-method signature="sortingByPriceLowToHigh()[pri:4, instance:testcases.SortingFeatureValidationTestCases@16c587de]" started-at="2025-09-07T23:00:10 IST" name="sortingByPriceLowToHigh" description="TC09_Validating the price sorting feature by Low to High" finished-at="2025-09-07T23:00:10 IST" duration-ms="201" status="PASS">
+        <test-method signature="sortingByPriceLowToHigh()[pri:4, instance:testcases.SortingFeatureValidationTestCases@7569ea63]" started-at="2025-09-07T23:20:51 IST" name="sortingByPriceLowToHigh" description="TC09_Validating the price sorting feature by Low to High" finished-at="2025-09-07T23:20:51 IST" duration-ms="167" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sortingByPriceLowToHigh -->
-        <test-method signature="sortingByPriceHighToLow()[pri:5, instance:testcases.SortingFeatureValidationTestCases@16c587de]" started-at="2025-09-07T23:00:10 IST" name="sortingByPriceHighToLow" description="TC10_Validating the price sorting feature by High to Low" finished-at="2025-09-07T23:00:10 IST" duration-ms="396" status="PASS">
+        <test-method signature="sortingByPriceHighToLow()[pri:5, instance:testcases.SortingFeatureValidationTestCases@7569ea63]" started-at="2025-09-07T23:20:51 IST" name="sortingByPriceHighToLow" description="TC10_Validating the price sorting feature by High to Low" finished-at="2025-09-07T23:20:51 IST" duration-ms="407" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sortingByPriceHighToLow -->
       </class> <!-- testcases.SortingFeatureValidationTestCases -->
       <class name="testcases.CartFeatureValidationTestCases">
-        <test-method signature="addSingleProduct()[pri:6, instance:testcases.CartFeatureValidationTestCases@7a0f244f]" started-at="2025-09-07T22:59:58 IST" name="addSingleProduct" description="TC11_Validate cart adding feature with single product" finished-at="2025-09-07T22:59:58 IST" duration-ms="114" status="PASS">
+        <test-method signature="addSingleProduct()[pri:6, instance:testcases.CartFeatureValidationTestCases@7be7e15]" started-at="2025-09-07T23:20:40 IST" name="addSingleProduct" description="TC11_Validate cart adding feature with single product" finished-at="2025-09-07T23:20:40 IST" duration-ms="111" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addSingleProduct -->
-        <test-method signature="removeItem()[pri:7, instance:testcases.CartFeatureValidationTestCases@7a0f244f]" started-at="2025-09-07T22:59:58 IST" name="removeItem" description="TC12_Validate remove product from cart" finished-at="2025-09-07T23:00:09 IST" duration-ms="10317" status="PASS">
+        <test-method signature="removeItem()[pri:7, instance:testcases.CartFeatureValidationTestCases@7be7e15]" started-at="2025-09-07T23:20:40 IST" name="removeItem" description="TC12_Validate remove product from cart" finished-at="2025-09-07T23:20:50 IST" duration-ms="10293" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- removeItem -->
-        <test-method signature="addMultipleProduct()[pri:8, instance:testcases.CartFeatureValidationTestCases@7a0f244f]" started-at="2025-09-07T23:00:09 IST" name="addMultipleProduct" description="TC13_Validate cart adding feature with multitle products" finished-at="2025-09-07T23:00:09 IST" duration-ms="389" status="PASS">
+        <test-method signature="addMultipleProduct()[pri:8, instance:testcases.CartFeatureValidationTestCases@7be7e15]" started-at="2025-09-07T23:20:50 IST" name="addMultipleProduct" description="TC13_Validate cart adding feature with multitle products" finished-at="2025-09-07T23:20:51 IST" duration-ms="381" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addMultipleProduct -->
       </class> <!-- testcases.CartFeatureValidationTestCases -->
       <class name="testcases.InventoryUIValidationTestCase">
-        <test-method signature="validateUI()[pri:1, instance:testcases.InventoryUIValidationTestCase@41fed14f]" started-at="2025-09-07T22:59:58 IST" name="validateUI" description="TC06_Validating the product images on the inventory page" finished-at="2025-09-07T22:59:58 IST" duration-ms="382" status="PASS">
+        <test-method signature="validateUI()[pri:1, instance:testcases.InventoryUIValidationTestCase@30a7c98f]" started-at="2025-09-07T23:20:39 IST" name="validateUI" description="TC06_Validating the product images on the inventory page" finished-at="2025-09-07T23:20:40 IST" duration-ms="376" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateUI -->
       </class> <!-- testcases.InventoryUIValidationTestCase -->
       <class name="runner.TestRunner">
-        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:runner.TestRunner@13d9cbf5]" started-at="2025-09-07T22:59:38 IST" name="setUpClass" finished-at="2025-09-07T22:59:39 IST" duration-ms="1115" status="PASS">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:runner.TestRunner@7905a0b8]" started-at="2025-09-07T23:20:20 IST" name="setUpClass" finished-at="2025-09-07T23:20:22 IST" duration-ms="1812" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@6edb1e9c]]>
+                <![CDATA[org.testng.TestRunner@174b8d0e]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@13d9cbf5]" started-at="2025-09-07T22:59:39 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-09-07T22:59:49 IST" duration-ms="9644" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@7905a0b8]" started-at="2025-09-07T23:20:22 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-09-07T23:20:31 IST" duration-ms="8918" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -127,7 +127,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@13d9cbf5]" started-at="2025-09-07T22:59:49 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-09-07T22:59:52 IST" duration-ms="2950" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@7905a0b8]" started-at="2025-09-07T23:20:31 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-09-07T23:20:33 IST" duration-ms="2583" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -143,7 +143,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@13d9cbf5]" started-at="2025-09-07T22:59:52 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-09-07T22:59:54 IST" duration-ms="2135" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@7905a0b8]" started-at="2025-09-07T23:20:33 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-09-07T23:20:35 IST" duration-ms="2050" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -159,7 +159,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@13d9cbf5]" started-at="2025-09-07T22:59:54 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-09-07T22:59:56 IST" duration-ms="2174" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@7905a0b8]" started-at="2025-09-07T23:20:35 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-09-07T23:20:37 IST" duration-ms="1988" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -175,7 +175,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@13d9cbf5]" started-at="2025-09-07T22:59:56 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-09-07T22:59:58 IST" duration-ms="1870" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@7905a0b8]" started-at="2025-09-07T23:20:37 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-09-07T23:20:39 IST" duration-ms="1942" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -191,7 +191,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runner.TestRunner@13d9cbf5]" started-at="2025-09-07T22:59:58 IST" name="tearDownClass" finished-at="2025-09-07T22:59:58 IST" duration-ms="52" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runner.TestRunner@7905a0b8]" started-at="2025-09-07T23:20:39 IST" name="tearDownClass" finished-at="2025-09-07T23:20:39 IST" duration-ms="48" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
